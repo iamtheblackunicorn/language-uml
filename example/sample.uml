@@ -2,9 +2,11 @@
 
 % Heading 1
 
+<=
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+=>
 
 <bash>
 $ echo "Hello World!"
@@ -12,26 +14,32 @@ $ echo "Hello World!"
 
 %% Heading 2
 
+<=
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+=>
 
 ; Unicorn Mark-Up Language.
 ; Licensed under the MIT license.
 
 %%% Heading 3
 
+<=
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+=>
 
 #imgurl
 
 %%%% Heading 4
 
+<=
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
 Lorem ipsum sit dolor amet. Lorem ipsum sit dolor amet.
+=>
 
 "italic text"
 ""bold text""
