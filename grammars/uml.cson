@@ -40,8 +40,8 @@ patterns: [
     match: '"+.*"+'
   },
   {
-    string: 'Text!'
+    string: 'Text'
     name: 'string.language.uml'
-    match: '\<\=.*\=\>'
+    match: '\{.*\}'
   }
 ]
