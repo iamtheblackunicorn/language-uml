@@ -38,5 +38,10 @@ patterns: [
     storage: 'Inline Mark-Up'
     name: 'storage.language.uml'
     match: '"+.*"+'
+  },
+  {
+    string: 'Text!'
+    name: 'string.language.uml'
+    match: '\<\=.*\=\>'
   }
 ]
