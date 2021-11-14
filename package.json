@@ -1,0 +1,17 @@
+{
+  "name": "language-uml",
+  "version": "0.1.0",
+  "description": "A grammar for the Unicorn Mark-Up language.",
+  "repository": "https://github.com/iamtheblackunicorn/language-uml",
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "grammar"
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "bugs": "https://github.com/iamtheblackunicorn/language-uml/issues",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

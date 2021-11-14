@@ -1,0 +1,42 @@
+scopeName: 'source.uml'
+name: 'Unicorn Mark-Up Language'
+fileTypes: [ 'uml' ]
+limitLineLength: false
+
+patterns: [
+  {
+    comment: 'Comments.'
+    name: 'comment.language.uml'
+    match: '\/\/.*'
+  },
+  {
+    constant: 'Headlines'
+    name: 'constant.language.uml'
+    match: '%+'
+  },
+  {
+    variable: 'Images'
+    name: 'variable.language.uml'
+    match: '#.*'
+  },
+  {
+    storage: 'Code Start'
+    name: 'storage.language.uml'
+    match: '\<.*\>'
+  },
+  {
+    storage: 'Code End'
+    name: 'storage.language.uml'
+    match: '\<\/.*\>'
+  },
+  {
+    variable: 'List'
+    name: 'variable.language.uml'
+    match: ';.*'
+  },
+  {
+    storage: 'Inline Mark-Up'
+    name: 'storage.language.uml'
+    match: '"+.*"+'
+  }
+]
